@@ -1,4 +1,9 @@
 # kasiyer-programi
+#basit meyve alma programı
+#yeni baslayanlar icin 
+
+
+
 
 meyveler =["çilek","mandalina","muz","ananas"]
 fiyatlar =["9","5","10","15"]
