@@ -1,6 +1,9 @@
 # kasiyer-programi
+
 #basit meyve alma programı
+
 #yeni baslayanlar icin 
+
 
 
 
